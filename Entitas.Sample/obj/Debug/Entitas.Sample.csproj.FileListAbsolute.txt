@@ -1,0 +1,16 @@
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\EntitasSample.exe
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\EntitasSample.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.Generic.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.Utils.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.Generic.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.Utils.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\Entitas.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\obj\Debug\Entitas.Sample.csprojResolveAssemblyReference.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\obj\Debug\Entitas.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\obj\Debug\EntitasSample.exe
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\obj\Debug\EntitasSample.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\CommonTestData.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\CommonTestData.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\EntitasCodegenSample.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas.Sample\bin\Debug\EntitasCodegenSample.pdb

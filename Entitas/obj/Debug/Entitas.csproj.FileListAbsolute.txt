@@ -1,0 +1,8 @@
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\bin\Debug\Entitas.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\bin\Debug\Entitas.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\bin\Debug\Entitas.Utils.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\bin\Debug\Entitas.Utils.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\obj\Debug\Entitas.csprojResolveAssemblyReference.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\obj\Debug\Entitas.csproj.CoreCompileInputs.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\obj\Debug\Entitas.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\Entitas\obj\Debug\Entitas.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\obj\Debug\EntitasCodegenSample.csprojResolveAssemblyReference.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\obj\Debug\EntitasCodegenSample.csproj.CoreCompileInputs.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\EntitasCodegenSample.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\EntitasCodegenSample.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\CommonTestData.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\Entitas.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\Entitas.Utils.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\CommonTestData.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\Entitas.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\bin\Debug\Entitas.Utils.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\obj\Debug\EntitasCodegenSample.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\EntitasCodegenSample\obj\Debug\EntitasCodegenSample.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\bin\Debug\CommonTestData.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\bin\Debug\CommonTestData.pdb
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.csprojResolveAssemblyReference.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.csproj.CoreCompileInputs.cache
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.dll
+C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.pdb
