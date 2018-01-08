@@ -1,1 +1,25 @@
 Complete benchmark setup for Generic Entitas implementation https://github.com/yosadchyi/Entitas.Generic
+
+Current benchmarks on my local machine:
+```
+[Generic Entity] Total time: 5823
+[Generic Entity] Avg time: 0.5823
+[Code Gen Entity] Total time: 4777
+[Code Gen Entity] Avg time: 0.4777
+Tests completed
+[Generic Entity] Total time: 6167
+[Generic Entity] Avg time: 0.6167
+[Code Gen Entity] Total time: 5985
+[Code Gen Entity] Avg time: 0.5985
+Tests completed
+[Generic Entity] Total time: 6215
+[Generic Entity] Avg time: 0.6215
+[Code Gen Entity] Total time: 4954
+[Code Gen Entity] Avg time: 0.4954
+Tests completed
+[Generic Entity] Total time: 6039
+[Generic Entity] Avg time: 0.6039
+[Code Gen Entity] Total time: 4860
+[Code Gen Entity] Avg time: 0.486
+Tests completed
+```
