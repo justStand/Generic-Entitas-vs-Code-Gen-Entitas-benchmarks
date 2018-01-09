@@ -4,3 +4,9 @@ C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\De
 C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.csproj.CoreCompileInputs.cache
 C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.dll
 C:\Users\Kumo\Documents\Projects\C#\Entitas.Generic-master\CommonTestData\obj\Debug\CommonTestData.pdb
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\bin\Debug\CommonTestData.dll
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\bin\Debug\CommonTestData.pdb
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\obj\Debug\CommonTestData.csprojResolveAssemblyReference.cache
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\obj\Debug\CommonTestData.csproj.CoreCompileInputs.cache
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\obj\Debug\CommonTestData.dll
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\CommonTestData\obj\Debug\CommonTestData.pdb

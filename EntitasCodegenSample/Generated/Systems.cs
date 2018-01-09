@@ -22,10 +22,10 @@
             {
                 var position = entity.codeGenPosition;
                 var velocity = entity.codeGenVelocity;
-                const float dt = 1.0f / 60.0f;
+                //const float dt = 1.0f / 60.0f;
 
-                entity.ReplaceCodeGenPosition(position.Location + velocity.Linear * dt,
-                    position.Rotation + velocity.Angular * dt);
+                //entity.ReplaceCodeGenPosition(position.Location + velocity.Linear * dt,
+                //    position.Rotation + velocity.Angular * dt);
             }
         }
     }

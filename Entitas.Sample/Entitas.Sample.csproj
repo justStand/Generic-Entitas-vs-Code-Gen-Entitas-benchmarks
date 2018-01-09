@@ -61,6 +61,10 @@
       <Project>{a0a11cc3-8b1e-4345-a5fa-01fc60e581d8}</Project>
       <Name>Entitas</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LeopotamEcs\LeopotamEcs.csproj">
+      <Project>{d762f0b2-4adb-4a39-829e-44f34e61b7b6}</Project>
+      <Name>LeopotamEcs</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

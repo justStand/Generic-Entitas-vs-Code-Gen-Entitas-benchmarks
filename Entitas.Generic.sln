@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitasCodegenSample", "Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitas.Sample", "Entitas.Sample\Entitas.Sample.csproj", "{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeopotamEcs", "LeopotamEcs\LeopotamEcs.csproj", "{D762F0B2-4ADB-4A39-829E-44F34E61B7B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D762F0B2-4ADB-4A39-829E-44F34E61B7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D762F0B2-4ADB-4A39-829E-44F34E61B7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D762F0B2-4ADB-4A39-829E-44F34E61B7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D762F0B2-4ADB-4A39-829E-44F34E61B7B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

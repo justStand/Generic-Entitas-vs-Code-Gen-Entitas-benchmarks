@@ -1,0 +1,12 @@
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\bin\Debug\LeopotamEcs.dll
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\bin\Debug\LeopotamEcs.pdb
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\obj\Debug\LeopotamEcs.csprojResolveAssemblyReference.cache
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\obj\Debug\LeopotamEcs.csproj.CoreCompileInputs.cache
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\obj\Debug\LeopotamEcs.dll
+C:\Users\Hei\Source\Repos\Generic-Entitas-vs-Code-Gen-Entitas-benchmarks\LeopotamEcs\obj\Debug\LeopotamEcs.pdb
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\bin\Debug\LeopotamEcs.dll
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\bin\Debug\LeopotamEcs.pdb
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\obj\Debug\LeopotamEcs.csprojResolveAssemblyReference.cache
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\obj\Debug\LeopotamEcs.csproj.CoreCompileInputs.cache
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\obj\Debug\LeopotamEcs.dll
+C:\Users\Kumo\Documents\Projects\C#\Leopotam-EcsTests-master\EcsTests-master\LeopotamEcs\obj\Debug\LeopotamEcs.pdb
